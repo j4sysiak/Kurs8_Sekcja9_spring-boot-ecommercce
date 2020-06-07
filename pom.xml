@@ -11,7 +11,7 @@
 	<groupId>pl.jaceksysiak</groupId>
 	<artifactId>spring-boot-ecommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-ecommerce</name>
+	<name>Kurs8_Sekcja9_spring-boot-ecommercce</name>
 	<description>Spring Boot Ecommerce Project</description>
 
 	<properties>
